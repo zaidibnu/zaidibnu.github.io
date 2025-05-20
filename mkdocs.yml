@@ -1,0 +1,15 @@
+site_name: Zaid Online pages
+site_url: https://zaidibnu.github.io
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: green
+nav:
+  - Beranda: index.md
+  - Tentang Saya: tentang.md
+  - Tulisan: 
+    - Mangrove: mangrove/index.md
+    - Artificial Intelegence: ai/index.md
+    - Jupyters: jupters/index.md
+    

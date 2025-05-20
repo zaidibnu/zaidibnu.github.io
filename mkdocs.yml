@@ -7,7 +7,7 @@ theme:
     accent: green
 nav:
   - Beranda: index.md
-  - Tentang Saya: tentang.md
+  - Tentang Saya: /docs/about.md
   - Tulisan: 
     - Mangrove: mangrove/index.md
     - Artificial Intelegence: ai/index.md
